@@ -12,7 +12,7 @@
 
 
 ## `Screenshot`
-![]social_media.jPG)
+![]social_media.JPG)
 
 
 ## `Getting Started`
