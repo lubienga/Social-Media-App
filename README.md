@@ -12,7 +12,7 @@
 
 
 ## `Screenshot`
-![] (social_media.JPG)
+![](social_media.JPG)
 
 
 ## `Getting Started`
